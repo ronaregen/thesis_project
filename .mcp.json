@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zotero": {
+      "command": "C:\\Users\\ronar\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\zotero-mcp.exe",
+      "args": ["--transport", "stdio"],
+      "env": {
+        "ZOTERO_LOCAL": "true"
+      }
+    }
+  }
+}
